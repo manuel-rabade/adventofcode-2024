@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "adventofcode-2024"
+version = "0.1.0"
+description = ""
+authors = ["Manuel Rabade <manuel@rabade.net>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
