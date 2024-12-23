@@ -11,4 +11,5 @@ https://adventofcode.com/2024
 | [5](05) | :green_circle: | :green_circle: | :smile:            | Key was to build a rules dict. Easy peasy. |
 | [6](06) | :green_circle: | :red_circle:   | :tired_face:       | Part 1 was easy; brute force in part 2 doesn’t work because it hangs in some cases. |
 | [7](07) | :green_circle: | :green_circle: | :thumbsup:         | Recursion was the hero. A small optimization for part 2 nearly halved the execution time. |
-| [8](08) | :green_circle: | :green_circle: | :hand_over_mouth:	 | The solution came out very C-like, but it was great to get back on track. |
+| [8](08) | :green_circle: | :green_circle: | :hand_over_mouth:	 | The solution came out very C-like, but it was great to get back on track.
+| [9](09) | :green_circle: | :green_circle: | :wink:             | Tried to be clever with the programming, but a simpler approach worked better. Focus on the data issues first, then the programming. |
