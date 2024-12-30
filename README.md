@@ -14,3 +14,4 @@ https://adventofcode.com/2024
 | [8](08)  | :green_circle: | :green_circle: | :hand_over_mouth:  | The solution came out very C-like, but it was great to get back on track.
 | [9](09)  | :green_circle: | :green_circle: | :wink:             | Tried to be clever with the programming, but a simpler approach worked better. Focus on the data issues first, then the programming. |
 | [10](10) | :green_circle: | :green_circle: | :bowtie:           | Solved quickly using recursion and a dictionary with tuples as keys. Elegant and efficient. |
+| [11](11) | :green_circle: | :red_circle:   | :exploding_head:   | Part 1 was easy but a trap. For Part 2, optimizing speed exhausted memory, while optimizing memory drastically slowed runtime. |
