@@ -15,3 +15,4 @@ https://adventofcode.com/2024
 | [9](09)  | :green_circle: | :green_circle: | :wink:             | Tried to be clever with the programming, but a simpler approach worked better. Focus on the data issues first, then the programming. |
 | [10](10) | :green_circle: | :green_circle: | :bowtie:           | Solved quickly using recursion and a dictionary with tuples as keys. Elegant and efficient. |
 | [11](11) | :green_circle: | :red_circle:   | :exploding_head:   | Part 1 was easy but a trap. For Part 2, optimizing speed exhausted memory, while optimizing memory drastically slowed runtime. |
+| [12](12) | :green_circle: | :red_circle:   | :shrug:	          | Thought both parts would be fine, but Part 2 fails. Sample results are correct, but the problem input gives the wrong result, and I can’t find the bug. |
