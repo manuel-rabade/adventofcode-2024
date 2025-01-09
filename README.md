@@ -16,3 +16,4 @@ https://adventofcode.com/2024
 | [10](10) | :green_circle: | :green_circle: | :bowtie:           | Solved quickly using recursion and a dictionary with tuples as keys. Elegant and efficient. |
 | [11](11) | :green_circle: | :red_circle:   | :exploding_head:   | Part 1 was easy but a trap. For Part 2, optimizing speed exhausted memory, while optimizing memory drastically slowed runtime. |
 | [12](12) | :green_circle: | :red_circle:   | :shrug:	          | Thought both parts would be fine, but Part 2 fails. Sample results are correct, but the problem input gives the wrong result, and I can’t find the bug. |
+| [13](13) | :green_circle: | :green_circle: | :nerd_face:        | Part 1 brute force did the trick. For Part 2, good ol' math saved the day. Lucky 13, feels great to be back on track after two unfinished days. |
