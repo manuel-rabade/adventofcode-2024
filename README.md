@@ -18,3 +18,4 @@ https://adventofcode.com/2024
 | [12](12) | :green_circle: | :red_circle:   | :weary:            | Thought both parts would be fine, but Part 2 fails. Sample results are correct, but the problem input gives the wrong result, and I can’t find the bug. |
 | [13](13) | :green_circle: | :green_circle: | :nerd_face:        | Part 1 brute force did the trick. For Part 2, good ol' math saved the day. Lucky 13, feels great to be back on track after two unfinished days. |
 | [14](14) | :green_circle: | :green_circle: | :blush:            | Part 2 was intriguing and exciting: searching for the tree tip over 10k seconds narrowed the possible answers to 48, which I manually analyzed to find the tree. |
+| [15](15) | :green_circle: | :green_circle: | :grin:             | Part 1 was a good warm-up for Part 2, which, although tricky, I solved using the same algorithm plus some recursion. |
